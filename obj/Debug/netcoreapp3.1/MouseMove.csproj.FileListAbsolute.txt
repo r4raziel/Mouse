@@ -1,0 +1,14 @@
+D:\VsProjects\MyProjects\MouseMove\bin\Debug\netcoreapp3.1\MouseMove.exe
+D:\VsProjects\MyProjects\MouseMove\bin\Debug\netcoreapp3.1\MouseMove.deps.json
+D:\VsProjects\MyProjects\MouseMove\bin\Debug\netcoreapp3.1\MouseMove.runtimeconfig.json
+D:\VsProjects\MyProjects\MouseMove\bin\Debug\netcoreapp3.1\MouseMove.runtimeconfig.dev.json
+D:\VsProjects\MyProjects\MouseMove\bin\Debug\netcoreapp3.1\MouseMove.dll
+D:\VsProjects\MyProjects\MouseMove\bin\Debug\netcoreapp3.1\MouseMove.pdb
+D:\VsProjects\MyProjects\MouseMove\obj\Debug\netcoreapp3.1\MouseMove.csproj.AssemblyReference.cache
+D:\VsProjects\MyProjects\MouseMove\obj\Debug\netcoreapp3.1\MouseMove.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsProjects\MyProjects\MouseMove\obj\Debug\netcoreapp3.1\MouseMove.AssemblyInfoInputs.cache
+D:\VsProjects\MyProjects\MouseMove\obj\Debug\netcoreapp3.1\MouseMove.AssemblyInfo.cs
+D:\VsProjects\MyProjects\MouseMove\obj\Debug\netcoreapp3.1\MouseMove.csproj.CoreCompileInputs.cache
+D:\VsProjects\MyProjects\MouseMove\obj\Debug\netcoreapp3.1\MouseMove.dll
+D:\VsProjects\MyProjects\MouseMove\obj\Debug\netcoreapp3.1\MouseMove.pdb
+D:\VsProjects\MyProjects\MouseMove\obj\Debug\netcoreapp3.1\MouseMove.genruntimeconfig.cache

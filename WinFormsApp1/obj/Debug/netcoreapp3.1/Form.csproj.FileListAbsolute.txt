@@ -1,0 +1,15 @@
+D:\VsProjects\MyProjects\WinFormsApp1\bin\Debug\netcoreapp3.1\Form.exe
+D:\VsProjects\MyProjects\WinFormsApp1\bin\Debug\netcoreapp3.1\Form.deps.json
+D:\VsProjects\MyProjects\WinFormsApp1\bin\Debug\netcoreapp3.1\Form.runtimeconfig.json
+D:\VsProjects\MyProjects\WinFormsApp1\bin\Debug\netcoreapp3.1\Form.runtimeconfig.dev.json
+D:\VsProjects\MyProjects\WinFormsApp1\bin\Debug\netcoreapp3.1\Form.dll
+D:\VsProjects\MyProjects\WinFormsApp1\bin\Debug\netcoreapp3.1\Form.pdb
+D:\VsProjects\MyProjects\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+D:\VsProjects\MyProjects\WinFormsApp1\obj\Debug\netcoreapp3.1\Form.csproj.GenerateResource.cache
+D:\VsProjects\MyProjects\WinFormsApp1\obj\Debug\netcoreapp3.1\Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsProjects\MyProjects\WinFormsApp1\obj\Debug\netcoreapp3.1\Form.AssemblyInfoInputs.cache
+D:\VsProjects\MyProjects\WinFormsApp1\obj\Debug\netcoreapp3.1\Form.AssemblyInfo.cs
+D:\VsProjects\MyProjects\WinFormsApp1\obj\Debug\netcoreapp3.1\Form.csproj.CoreCompileInputs.cache
+D:\VsProjects\MyProjects\WinFormsApp1\obj\Debug\netcoreapp3.1\Form.dll
+D:\VsProjects\MyProjects\WinFormsApp1\obj\Debug\netcoreapp3.1\Form.pdb
+D:\VsProjects\MyProjects\WinFormsApp1\obj\Debug\netcoreapp3.1\Form.genruntimeconfig.cache
